@@ -4,7 +4,7 @@
 - custom domain email address
 - host splash page similar to current one as homepage, as well as tutorials and other resources
 
-### fork or mirror repos of projects on the carousel
+### [fork or mirror](https://help.github.com/en/articles/duplicating-a-repository) repos of projects on the carousel
 - [ ] [Tutor Matching](https://github.com/VikramChilkunda/tutormatching)
 - [ ] [Community Service Logger](https://github.com/Conbonbot/Community_Service_Logger)
 - [ ] [Locker Registration](https://github.com/lyronctk/CVHS_lockers)
