@@ -1,0 +1,21 @@
+Ricky Parada [9:51 PM]
+
+ZPX- Interactive Software
+https
+://www.zpx.pt/
+
+Virtual Reality Game Development with ZPX-
+ Interactive Software, a gaming company based in Lisbon, Portugal. 
+Project started with a 9-week summer internship focused on the software 
+engineering industry, specifically learning the company’s detailed 
+collaboration process. Our current project is to conceive and create a
+user interface (UI) for their latest multiplayer VR game 
+(projected release: Spring 2019). Game engines that we use are 
+Unity and Unreal (coding in C# and C++)
+
+ZPX - Interactive Software
+ZPX - Interactive Software
+
+
+This is the project description for Edan Bash and I. 
+I included the website link just in case you need it. Thanks!
