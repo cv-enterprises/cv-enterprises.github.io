@@ -15,4 +15,4 @@
   - [ ] [SoCalShredz](https://github.com/jbrown3859/SCS)
   - [ ] others?
 
-- ### get custom domain from Porkbun and set up email
+- ### get custom domain from Porkbun and set up email - cvhs.enterprises & contact@cvhs.enterprises
