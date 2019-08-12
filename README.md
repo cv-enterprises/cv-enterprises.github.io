@@ -3,6 +3,7 @@
 
 ## To-Do's:
 - # CHANGE PASSWORDS
+- ### fix favicon
 [//]: # ( ✔️ - copy and paste this for completed items)
 - ### convert the [current site](https://cv-enterprises.herokuapp.com/index.html) to a jekyll site with [converter](https://wordpress.org/plugins/jekyll-exporter/) or use a jekyll theme
 
