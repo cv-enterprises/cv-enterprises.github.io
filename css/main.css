@@ -641,11 +641,11 @@ display:-ms-flexbox;display:flex;-webkit-box-flex:1;-webkit-flex-grow:1;-moz-fle
 	.single-blog .details-btn:hover .details{margin-left:0;visibility:visible;opacity:1;margin-right:8px}
 	.single-blog .details-btn:hover span{color:#fff;font-weight:600}
 	.cta-one-area{
-		/* background:url(../img/cta-bg.jpg) center; */
+		/* background:url(../img/cta-bg.JPG) center; */
 		background-size:cover; 
 		text-align:center;
 		color:#fff;
-		background-image: url("../img/cta-bg.jpg");
+		background-image: url("../img/cta-bg.JPG");
 
 		/* Create the parallax scrolling effect */
 		background-attachment: fixed;
