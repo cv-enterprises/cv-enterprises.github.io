@@ -3,7 +3,7 @@
 
 ## To-Do's:
 - # CHANGE PASSWORDS
-- ### ~~fix favicon~~
+- ### fix favicon ✓
 - ### get custom domain from Porkbun and set up email - cvhs.enterprises & contact@cvhs.enterprises
 - ### [fork or mirror](https://help.github.com/en/articles/duplicating-a-repository) repos of projects on the carousel (after site is up)
   - [ ] [Tutor Matching](https://github.com/VikramChilkunda/tutormatching)
@@ -14,4 +14,6 @@
   - [ ] [SoCalShredz](https://github.com/jbrown3859/SCS)
   - [ ] others?
 
-- ### convert the [current site](https://cv-enterprises.herokuapp.com/index.html) to a jekyll site with [converter](https://wordpress.org/plugins/jekyll-exporter/) or use a jekyll theme
+- ### convert the [current site](https://cv-enterprises.github.io) to a jekyll site with ~~[converter](https://wordpress.org/plugins/jekyll-exporter/) or use~~ a custom Jekyll theme
+  - color of logo: 36aeff (use as highlight color)
+  - follow similar layout
