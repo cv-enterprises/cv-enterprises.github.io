@@ -17,3 +17,17 @@
 - ### convert the [current site](https://cv-enterprises.github.io) to a jekyll site with ~~[converter](https://wordpress.org/plugins/jekyll-exporter/) or use~~ a custom Jekyll theme
   - color of logo: 36aeff (use as highlight color)
   - follow similar layout
+
+possible themes:
+
+ - Airspace:  
+ [Demo](http://demo.themefisher.com/themefisher/airspace/) | 
+ [Repo](https://github.com/ndrewtl/airspace-jekyll)
+
+ - Freelancer:  
+ [Demo](https://blackrockdigital.github.io/startbootstrap-freelancer/) |
+ [Repo](https://github.com/jeromelachaud/freelancer-theme)
+
+ - Agency:  
+ [Demo](https://blackrockdigital.github.io/startbootstrap-agency/) |
+ [Repo](https://github.com/y7kim/agency-jekyll-theme)
