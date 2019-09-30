@@ -18,16 +18,8 @@
   - color of logo: 36aeff (use as highlight color)
   - follow similar layout
 
-possible themes:
-
- - Airspace:  
- [Demo](http://demo.themefisher.com/themefisher/airspace/) | 
- [Repo](https://github.com/ndrewtl/airspace-jekyll)
-
- - Freelancer:  
- [Demo](https://blackrockdigital.github.io/startbootstrap-freelancer/) |
- [Repo](https://github.com/jeromelachaud/freelancer-theme)
-
  - Agency:  
  [Demo](https://blackrockdigital.github.io/startbootstrap-agency/) |
  [Repo](https://github.com/y7kim/agency-jekyll-theme)
+
+[use formspree to make a functional back-end-less contact us](https://medium.com/@asjas/using-formspree-io-on-your-github-pages-a60c290d1ee)
