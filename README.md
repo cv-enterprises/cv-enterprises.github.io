@@ -14,6 +14,7 @@
   - [ ] [Injury Tracker](https://github.com/jnakama/CV-Injury-App)
   - [ ] [SoCalShredz](https://github.com/jbrown3859/SCS)
   - [ ] others?
+- ### automated fork/mirror updater, ideally with a list of (Project Name)(link)
 
 - ### convert the [current site](https://cv-enterprises.github.io) to a jekyll site with ~~[converter](https://wordpress.org/plugins/jekyll-exporter/) or use~~ a custom Jekyll theme
   - color of logo: 36aeff (use as highlight color)
