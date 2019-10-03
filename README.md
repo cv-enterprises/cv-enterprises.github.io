@@ -1,5 +1,4 @@
-# CV Enterprises Website
-- host splash page similar to current one as homepage, as well as tutorials and other resources
+# [CV Enterprises Website](https://cventerprises.org)
 
 ## To-Do's:
 - ### CHANGE PASSWORDS ✓
