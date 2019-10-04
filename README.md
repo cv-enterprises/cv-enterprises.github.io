@@ -4,8 +4,8 @@
 - ### CHANGE PASSWORDS ✓
 - ### fix favicon ✓
 - ### get custom domain from Porkbun ✓
-- ### set up custom email 
-- ### [Verify org on GitHub](https://help.github.com/en/articles/verifying-your-organizations-domain)
+- ### set up custom email ✓
+- ### [Verify org on GitHub](https://help.github.com/en/articles/verifying-your-organizations-domain) ✓
 - ### [fork or mirror](https://help.github.com/en/articles/duplicating-a-repository) repos of projects on the carousel (after site is up)
   - [ ] [Tutor Matching](https://github.com/VikramChilkunda/tutormatching)
   - [ ] [Community Service Logger](https://github.com/Conbonbot/Community_Service_Logger)
