@@ -22,6 +22,6 @@
 
  - Agency:  
  [Demo](https://blackrockdigital.github.io/startbootstrap-agency/) |
- [Repo](https://github.com/y7kim/agency-jekyll-theme)
+ [Repo](https://github.com/raviriley/agency-jekyll-theme) - WiP
 
 [use formspree to make a functional back-end-less contact us](https://medium.com/@asjas/using-formspree-io-on-your-github-pages-a60c290d1ee)
