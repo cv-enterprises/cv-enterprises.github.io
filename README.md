@@ -6,10 +6,10 @@
 - ### get custom domain from Porkbun ✓
 - ### set up custom email ✓
 - ### [Verify org on GitHub](https://help.github.com/en/articles/verifying-your-organizations-domain) ✓
-- ### [fork or mirror](https://help.github.com/en/articles/duplicating-a-repository) repos of projects on the carousel (after site is up)
-  - [ ] [Tutor Matching](https://github.com/VikramChilkunda/tutormatching)
-  - [ ] [Community Service Logger](https://github.com/Conbonbot/Community_Service_Logger)
-  - [ ] [Locker Registration](https://github.com/lyronctk/CVHS_lockers)
+- ### [fork or mirror](https://help.github.com/en/articles/duplicating-a-repository) repos of projects on the carousel (after site is up) and add custom domains
+  - [ ] [Tutor Matching](https://github.com/VikramChilkunda/tutormatching) - tutor.cventerprises.org?
+  - [ ] [Community Service Logger](https://github.com/Conbonbot/Community_Service_Logger) - community.cventerprises.org?
+  - [ ] [Locker Registration](https://github.com/lyronctk/CVHS_lockers) - lockers.cventerprises.org?
   - [ ] [STCMedicalClinics](https://github.com/lyronctk/STCMedicalClinics)
   - [ ] [Injury Tracker](https://github.com/jnakama/CV-Injury-App)
   - [ ] [SoCalShredz](https://github.com/jbrown3859/SCS)
